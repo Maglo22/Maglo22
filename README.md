@@ -3,7 +3,7 @@
 
 I'm a software engineer from Mexico. I recently graduated, yet I feel like I barely know anything to consider myself an engineer.
 
-Most of my experience is in building web based applications. I've made _things_ using different frameworks like Laravel, Django or Express. I'd say I'm more of a back-end than a front-end person, but I enjoy doing both.
+Most of my experience is in building web based applications. I've made _things_ using different frameworks like Laravel, Django, Angular. I enjoy doing both front-end and back-end implementations; I think I have been doing more front-end than back-end stuff.
 
 Even though I've spent most of my time in languages for the web like PHP, Python, HTML, JavaScript, I enjoy writting things in C; not sure if it is because of the language's simplicity or something else.
 
