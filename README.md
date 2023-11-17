@@ -1,15 +1,15 @@
 ### Hi, I'm Br1
 #### (_Bruno_, because '1' in spanish is 'uno')
 
-I'm a software engineer from Mexico. I recently graduated, yet I feel like I barely know anything to consider myself an engineer.
+I'm a software engineer from Mexico.
 
-Most of my experience is in building web based applications. I've made _things_ using different frameworks like Laravel, Django, Angular. I enjoy doing both front-end and back-end implementations; I think I have been doing more front-end than back-end stuff.
+Most of my experience is in building web based applications. I've made _things_ using different frameworks like Laravel, Django, Angular. I enjoy doing both front-end and back-end implementations; I can say I have been doing more front-end than back-end stuff.
 
-Even though I've spent most of my time in languages for the web like PHP, Python, HTML, JavaScript, I enjoy writting things in C; not sure if it is because of the language's simplicity or something else.
+Even though I've spent most of my time in languages for the web like PHP, Python, HTML, JavaScript, I enjoy writting things in C.
 
-I realy like videogames. I studied Computer Science because I wanted to know how to make one. Still haven't got the courage to do it.
+I enjoy playing videogames. I studied Computer Science because I wanted to know how to make one. Still haven't got the courage to do it.
 
-Besides software related things, I also do some casual photography, which you can check out, if you want, on my [Instagram](https://www.instagram.com/br1.mg/). I practice both regular and _virtual_ photography, which is why I have another [Instagram account](https://www.instagram.com/br1.vp/) for that second kind of photos.
+Besides software related things, I also do some photography and videography, which you can check out, if you want, on my [Instagram](https://www.instagram.com/br1.mg/) and in this [Youtube channel](https://youtube.com/@temporallobe?si=cWI-j4aM5HCD_6zD). I practice both regular and _virtual_ photography, which is why I have another [Instagram account](https://www.instagram.com/br1.vp/).
 
 
 Here is my email, if you'd like to be in contact:
